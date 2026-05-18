@@ -8,5 +8,3 @@ dependencies = [
     "dbt-core>=1.11.10",
     "dbt-snowflake>=1.11.5",
 ]
-
-//testing
